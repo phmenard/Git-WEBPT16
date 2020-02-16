@@ -1,5 +1,5 @@
-My link to my second project is ...
-https://codepen.io/phMenard/pen/eYNJXdJ?editors=1100
+My link to my second part of the project is ...
+https://codepen.io/phMenard/pen/eYNJXdJ
 
     1. What is Semantic HTML? 
     A. Semantic HTML gives your code meaning.
@@ -8,7 +8,8 @@ https://codepen.io/phMenard/pen/eYNJXdJ?editors=1100
     A. HTML is used to orginize your code into readable blocks that a browser can understand.
 
     3. What is an attribute and where do we put it?
-
+    A. Difines some characteristics or extra bits of information of a given tag. We declare are attributes in the opening tag just after the tag name. 
+        i.e <div class="images"> 
 
     4. What is the h1 tag used for? How many times should I use it on a page?
     A. h1 is usually used for your main header, but can be used througout the document. But probably should only be used once.
@@ -29,7 +30,7 @@ https://codepen.io/phMenard/pen/eYNJXdJ?editors=1100
     A. Should only be used once.
 
     10. What is a class? 
-    A. a class in CSS in a reusable set of styles you can use in you HTML pages.
+    A. a class in CSS in a reusable set of styles you can use in your HTML pages.
 
     11. What elements can I add a class to? 
     A. Any element that hasn't already been assigned an id.
@@ -116,8 +117,8 @@ https://codepen.io/phMenard/pen/eYNJXdJ?editors=1100
     A. git push
 
     37. Walk me through Lambda's git flow. 
-    A. fork, add a collaborator, clone. 
-        do your worlsk ...
+    A. fork, add a collaborator, clone, create a branch. 
+        do your work ...
         git add, git commit, git push
 
 
@@ -125,7 +126,16 @@ https://codepen.io/phMenard/pen/eYNJXdJ?editors=1100
 Stretch Questions
 
     1. What is the difference between an inline element and a block element?
+    A. Inline elements follow one another one the same line, block elements creat a new line.
+
     2. What happens when an element is positioned absolutely? 
+
     3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
+    A. display: inline;
+
     4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
+    A. Display block are <p>, <h1>, <div>
+    A. Display inline are <span>,<image> 
+    A. Display inline-block are <section>
+    
     5. In your own words, explain the box model. What is the fix for the box model? 
